@@ -1,0 +1,1 @@
+•	Evolutionary Interpretation: The phylogenetic tree reveals that the sequence is most closely related to orthologs from other Drosophila species, forming a distinct evolutionary cluster. This indicates high conservation of the scarlet protein function across the genus.
